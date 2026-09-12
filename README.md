@@ -11,13 +11,13 @@ A hands-on course on building apps with the Claude/Anthropic API — from your f
 - Setting up and authenticating with the API
 - Multi-turn conversations, system prompts, streaming, structured outputs
 - Prompt engineering (XML tags, few-shot examples, clear instructions) and how to evaluate prompts
-- Tool use — custom tools, batch calls, web search
+- Tool use - custom tools, batch calls, web search
 - Building RAG systems (chunking, embeddings, BM25, contextual retrieval)
 - Extended thinking, image/PDF handling, citations
 - Prompt caching to save on cost and latency
 - MCP servers and clients
 - Claude Code and Computer Use
-- Agent patterns — parallelization, chaining, routing
+- Agent patterns - parallelization, chaining, routing
 
 ## Prerequisites
 
@@ -29,4 +29,3 @@ Backend/full-stack devs, data engineers, DevOps folks, and anyone building chatb
 
 ## Certificate?
 
-Yes — this is on Anthropic Academy (anthropic.com/learn), and you get a real certificate from Anthropic once you finish it, for free. Just make sure you're doing it through their official Skilljar site — the paid "Claude certifications" floating around elsewhere aren't from Anthropic.
